@@ -10,8 +10,10 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <?php require 'model/constante/Status.php'; ?>
         <?php
-            echo 'Hello Word';
+        
+            echo Status::ENVIADO;
         ?>
     </body>
 </html>
