@@ -6,3 +6,22 @@
  * and open the template in the editor.
  */
 
+class DaoMemorandoBD {
+    
+    function cadastrar(Memorando $m){
+        
+    }
+    
+    function remover(Memorando $m){
+        
+    }
+    
+    function atualizar(Memorando $m){
+        
+    }
+    
+    function recuperar(Memorando $m){
+        
+    }
+    
+}
